@@ -11,7 +11,7 @@ ContactDetails = {
 print("user input arguments: ", sys.argv[1:])
 
 if not(len(sys.argv) > 2):
-    print("Error! not enough input arguments, exiting")
+    print("Error! not enough input arguments. exiting")
     exit()
 
 InputUserName = sys.argv[1]
