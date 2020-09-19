@@ -1,7 +1,7 @@
 import sys
 import re
 
-file_handler = open('lab19\hosts.txt', "r")
+file_handler = open('lab19\\hosts.txt', "r")
 general_lines = file_handler.readlines()
 file_handler.close()
 
