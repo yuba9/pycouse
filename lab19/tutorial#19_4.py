@@ -66,3 +66,12 @@ for i in final_list:
     for j in i:
         print(j, " ", end="")
     print("")
+
+"""
+Uri's comments:
+==============
+
+* Very good! This code works.
+* Your code is very long. Try to do the same task will less lines of code. It's possible.
+  
+"""

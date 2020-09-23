@@ -26,3 +26,14 @@ for i in new_list:
     if i > list_average:
         print(i)
 
+"""
+Uri's comments:
+==============
+
+* Very good! This code works.
+* Your program should handle no command line arguments or a number of grades
+  different than 20.
+* The assignment doesn't expect you to print the average. You should calculate it
+  but not print it.
+  
+"""

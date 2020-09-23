@@ -17,3 +17,13 @@ for i in sys.argv[1:]:
         print(hosts[i])
     except KeyError:
         print("invalid host name")
+
+"""
+Uri's comments:
+==============
+
+* Very good! This code works.
+* It's better to put your data files (*.txt) in a separate folder and not with
+  the code.
+  
+"""
