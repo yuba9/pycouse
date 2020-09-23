@@ -8,3 +8,11 @@ while (1):
         print("number does not divide by 7")
 
 print(x)
+
+"""
+Uri's comments:
+==============
+
+* This code works, but it runs in an endless loop. You should break when necessary.
+  
+"""

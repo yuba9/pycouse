@@ -10,3 +10,11 @@ while True:
 
 for element in user_list:
     print(element)
+
+"""
+Uri's comments:
+==============
+
+* You forgot to reverse the lines before printing.
+  
+"""

@@ -14,3 +14,11 @@ while True:
             print("the number you guessed is too big")
     except ValueError:
         print("The input have to be a number")
+
+"""
+Uri's comments:
+==============
+
+* Very good! This code works.
+  
+"""
